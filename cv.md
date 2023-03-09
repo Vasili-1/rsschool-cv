@@ -1,8 +1,8 @@
 # Vasili Aleksiayuk
 # My contacts
-* Phone: +375 33 318 19 96
-* E-mail: vasili_aleksiayuk@mail.ru
-* GitHub: Vasili-1
+* **Phone**: +375 33 318 19 96
+* **E-mail**: vasili_aleksiayuk@mail.ru
+* **GitHub**: Vasili-1
 # About Me
 I am 26 years old, currently living in Brest (Belarus), not working, learning JavaScript. Sociable and love to learn something new.
 # Skills
@@ -10,3 +10,11 @@ I am 26 years old, currently living in Brest (Belarus), not working, learning Ja
 * CSS
 * JavaScript
 * Git/GitHub
+# Code Examples
+```
+function sum(a, b) {
+return a + b;
+}
+```
+# Education
+**Brest State Polytechnic College**
