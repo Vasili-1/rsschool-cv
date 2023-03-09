@@ -18,3 +18,6 @@ return a + b;
 ```
 # Education
 **Brest State Polytechnic College**
+# Languages
+* **Polish** - B1
+* **English** - A2
